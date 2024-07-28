@@ -1,0 +1,21 @@
+indicator,date,value,country,predictions,forecasts,analyses
+GDP,2021-01-01,1000,USA,5,6,7
+Unemployment Rate,2021-01-01,5,USA,5,6,7
+Inflation Rate,2021-01-01,2,USA,5,6,7
+Interest Rate,2021-01-01,1,USA,5,6,7
+Stock Market Index,2021-01-01,2000,USA,5,6,7
+GDP,2021-02-01,1010,USA,5,6,7
+Unemployment Rate,2021-02-01,4.5,USA,5,6,7
+Inflation Rate,2021-02-01,2.5,USA,5,6,7
+Interest Rate,2021-02-01,1.5,USA,5,6,7
+Stock Market Index,2021-02-01,2010,USA,5,6,7
+GDP,2021-03-01,1020,USA,5,6,7
+Unemployment Rate,2021-03-01,4,USA,5,6,7
+Inflation Rate,2021-03-01,3,USA,5,6,7
+Interest Rate,2021-03-01,2,USA,5,6,7
+Stock Market Index,2021-03-01,2020,USA,5,6,7
+GDP,2021-04-01,1030,USA,5,6,7
+Unemployment Rate,2021-04-01,3.5,USA,5,6,7
+Inflation Rate,2021-04-01,3.5,USA,5,6,7
+Interest Rate,2021-04-01,2.5,USA,5,6,7
+Stock Market Index,2021-04-01,2030,USA,5,6,7
