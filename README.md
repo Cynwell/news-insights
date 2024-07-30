@@ -76,14 +76,19 @@ News data will be retrieved from the GDELT dataset, and the economic indicator w
 
 3. Save the graphs to `data/reports/figures/`
 
-# Deployment (Tableau)
+# Deployment (Streamlit Frontend + FastAPI Backend)
 
-1. Deploy the Tableau visualization to Tableau Public
+1. Navigate into the directory `src/` with:
+    ```bash
+    cd src/
+    ```
 
-2. Share the Tableau Public link to the economist
+2. Start FastAPI backend with:
+    ```bash
+    python main.py
+    ```
 
-# Deployment (Python Web App)
-
-1. Build a Python web app using Streamlit + FastAPI
-
-2. Deploy the Python web app locally
+3. Start Streamlit frontend with:
+    ```bash
+    streamlit run app.py
+    ```
